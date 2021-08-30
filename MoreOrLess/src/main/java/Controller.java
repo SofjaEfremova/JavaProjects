@@ -1,4 +1,4 @@
-package ua.vmurol;
+
 
 import java.util.Scanner;
 

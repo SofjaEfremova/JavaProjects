@@ -1,4 +1,3 @@
-package ua.vmurol;
 
 /**
  * Created by Student on 22.02.2017.
